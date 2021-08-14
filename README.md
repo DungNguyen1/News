@@ -1,4 +1,4 @@
-# new11
+# AppNews
 
 A new Flutter project.
 
